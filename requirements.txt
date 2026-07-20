@@ -1,0 +1,7 @@
+streamlit
+openai
+google-genai
+Pillow
+requests
+python-dotenv
+
